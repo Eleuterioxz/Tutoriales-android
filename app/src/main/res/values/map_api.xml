@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--AIzaSyB_tX1dWWopM5Qn7sblZUkH4MmXWI2z25g -->
+    <!--AIzaSyBQM3VS4F7-kS6r98jNTvpvlnB6PWC8R2g -->
+    <string name="map_key" translatable="false">
+        AIzaSyB_tX1dWWopM5Qn7sblZUkH4MmXWI2z25g
+    </string>
+
+
+</resources>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <color name="colorPrimaryDark">#180D5C</color>
+    <color name="colorPrimary">#231F86</color>
+    <color name="colorAccent">#00FEB5</color>
+    <color name="label_back">#FFF2F6</color>
+
+
+    <color name="accent">#00FEB5</color>
+    <color name="label_polygon">#082C3856</color>
+    <color name="colorPrimaryBack">#1AFE0545</color>
+
+    <color name="label">#93959B</color>
+    <color name="text_disable">#CCCCCC</color>
+    <color name="titulos">#2C3856</color>
+    <color name="fondo">#F0F0F0</color>
+    <color name="fondo_lite">#F9F9F8</color>
+
+    <color name="verde_suave_fondo">#009688</color>
+
+
+
+
+    <color name="shimer">#dddddd</color>
+
+
+    <color name="black_20">#33000000</color>
+    <color name="black_40">#66000000</color>
+    <color name="white_20">#33FFFFFF</color>
+    <color name="transparent">#00000000</color>
+
+
+    <color name="dark_02">#05000000</color>
+    <color name="dark_05">#0D000000</color>
+    <color name="dark_10">#1A000000</color>
+    <color name="dark_20">#33000000</color>
+    <color name="dark_30">#4D000000</color>
+    <color name="dark_40">#66000000</color>
+    <color name="dark_50">#80000000</color>
+    <color name="dark_60">#99000000</color>
+    <color name="dark_70">#B3000000</color>
+    <color name="dark_80">#CC000000</color>
+    <color name="dark_90">#E6000000</color>
+
+    <color name="light_10">#1AFFFFFF</color>
+    <color name="light_20">#33FFFFFF</color>
+    <color name="light_30">#4DFFFFFF</color>
+    <color name="light_40">#66FFFFFF</color>
+    <color name="light_50">#8FFFFFF0</color>
+    <color name="light_60">#99FFFFFF</color>
+    <color name="light_70">#B3FFFFFF</color>
+    <color name="light_80">#CCFFFFFF</color>
+    <color name="light_90">#E6FFFFFF</color>
+
+</resources>
